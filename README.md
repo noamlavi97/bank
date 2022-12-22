@@ -10,7 +10,7 @@ To run the project:
 3.   run.bat
 
 To re-compile the project yourself:
-1. cd into src/class directory
+1. cd into src/bank directory
 2. List all the files in the directory: `dir /s /B *.java > sources.txt`
 3. Compile: `javac -d . @sources.txt`
 4. Run using the command: `java bank.Bank'
